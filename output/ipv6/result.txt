@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-27 19:54:09,https://www.freetv.top/migu/631780532.m3u8?migutoken=6f589f929945331767ef466f5f4cb6ccee0346b95c4bae5bbd6b99321f160d076257570ccc9b882f37a0bd95f05b1a1b9830393bd269f71445b0e5d01684c40a8cf16759a5bbdf9d5dff243250$订阅源
+2026-04-29 19:47:49,https://www.freetv.top/migu/631780532.m3u8?migutoken=6f589f929945331767ef466f5f4cb6ccee0346b95c4bae5bbd6b99321f160d076257570ccc9b882f37a0bd95f05b1a1b9830393bd269f71445b0e5d01684c40a8cf16759a5bbdf9d5dff243250$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=6f589f929945331767ef466f5f4cb6ccee0346b95c4bae5bbd6b99321f160d076257570ccc9b882f37a0bd95f05b1a1b9830393bd269f71445b0e5d01684c40a8cf16759a5bbdf9d5dff243250$订阅源
@@ -35,7 +35,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90$订阅源
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4$订阅源
-CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91$订阅源
@@ -120,10 +119,8 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
@@ -148,8 +145,5 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
-天映经典,https://cdn10.163189.xyz/stream/163189/ccm/$订阅源
-天映经典,https://cdn10.163189.xyz/stream/163189/ccm/$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
-天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2$订阅源
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe$订阅源
